@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//applications/main.c=GBK
+encoding//drivers/stm32f1xx_hal_msp.c=GBK
+encoding/<project>=GBK
